@@ -34,7 +34,7 @@ int main() {
                 procesarDatos(empleados, numEmpleados);
                 break;
             case 3:
-                printf("Saliendo del programa...\n");
+                printf("Saliendo del programa\n");
                 break;
             default:
                 printf("Opción no válida. Por favor, ingrese una opción válida.\n");
